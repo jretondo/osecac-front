@@ -1,0 +1,194 @@
+[
+    {
+        "agencia": "DELEGACION CORDOBA",
+        "id": 0
+    },
+    {
+        "agencia": "AGENCIA ALTA GRACIA",
+        "id": 1
+    },
+    {
+        "agencia": "AGENCIA CARLOS PAZ",
+        "id": 2
+    },
+    {
+        "agencia": "AGENCIA COSQUIN",
+        "id": 3
+    },
+    {
+        "agencia": "AGENCIA CRUZ DEL EJE",
+        "id": 4
+    },
+    {
+        "agencia": "AGENCIA DEAN FUNES",
+        "id": 5
+    },
+    {
+        "agencia": "AGENCIA HERNANDO",
+        "id": 6
+    },
+    {
+        "agencia": "AGENCIA JESUS MARIA",
+        "id": 7
+    },
+    {
+        "agencia": "AGENCIA LA FALDA",
+        "id": 8
+    },
+    {
+        "agencia": "AGENCIA LUQUE",
+        "id": 9
+    },
+    {
+        "agencia": "CALCHIN ESTACION",
+        "id": 10
+    },
+    {
+        "agencia": "CALCHIN OESTE",
+        "id": 11
+    },
+    {
+        "agencia": "AGENCIA OLIVA",
+        "id": 12
+    },
+    {
+        "agencia": "AGENCIA ONCATIVO",
+        "id": 13
+    },
+    {
+        "agencia": "AGENCIA RIO CEBALLOS",
+        "id": 14
+    },
+    {
+        "agencia": "AGENCIA RIO SEGUNDO",
+        "id": 15
+    },
+    {
+        "agencia": "AGENCIA RIO TERCERO",
+        "id": 16
+    },
+    {
+        "agencia": "AGENCIA STA. ROSA DE CALAMUCHITA",
+        "id": 17
+    },
+    {
+        "agencia": "AGENCIA VILLA DEL ROSARIO",
+        "id": 18
+    },
+    {
+        "agencia": "AGENCIA VILLA DOLORES",
+        "id": 19
+    },
+    {
+        "agencia": "AMBULATORIO CENTRAL",
+        "id": 20
+    },
+    {
+        "agencia": "CLINICA SANAGEC",
+        "id": 21
+    },
+    {
+        "agencia": "CORRESP. ALMAFUERTE",
+        "id": 22
+    },
+    {
+        "agencia": "CORRESP. CAPILLA DEL MONTE",
+        "id": 23
+    },
+    {
+        "agencia": "CORRESP. CORRALITO",
+        "id": 24
+    },
+    {
+        "agencia": "CORRESP. DESPEÑADEROS",
+        "id": 25
+    },
+    {
+        "agencia": "CORRESP. EMBALSE",
+        "id": 26
+    },
+    {
+        "agencia": "CORRESP. LA PARA",
+        "id": 27
+    },
+    {
+        "agencia": "CORRESP. LA PUERTA",
+        "id": 28
+    },
+    {
+        "agencia": "CORRESP. LAS JUNTURAS",
+        "id": 29
+    },
+    {
+        "agencia": "CORRESP. MATORRALES",
+        "id": 30
+    },
+    {
+        "agencia": "CORRESP. SANTA ROSA DE RIO I",
+        "id": 31
+    },
+    {
+        "agencia": "CORRESP. TANTI",
+        "id": 32
+    },
+    {
+        "agencia": "CORRESP. VILLA ASCASUBI",
+        "id": 33
+    },
+    {
+        "agencia": "CORRESP.VILLA DE MARIA DE RIO SECO",
+        "id": 34
+    },
+    {
+        "agencia": "POLIC. CERRO DE LAS ROSAS",
+        "id": 35
+    },
+    {
+        "agencia": "POLIC. JUAN B. JUSTO",
+        "id": 36
+    },
+    {
+        "agencia": "RIO PRIMERO",
+        "id": 37
+    },
+    {
+        "agencia": "SUB-AGENCIA CTRO. CORDOBA",
+        "id": 38
+    },
+    {
+        "agencia": "SUB-AGENCIA LA CALERA",
+        "id": 39
+    },
+    {
+        "agencia": "SUB-AGENCIA LAGUNA LARGA",
+        "id": 40
+    },
+    {
+        "agencia": "SUB-AGENCIA MINA CLAVERO",
+        "id": 41
+    },
+    {
+        "agencia": "SUB-AGENCIA PILAR",
+        "id": 42
+    },
+    {
+        "agencia": "SUB-AGENCIA TANCACHA",
+        "id": 43
+    },
+    {
+        "agencia": "SUB-AGENCIA VILLA ALLENDE",
+        "id": 44
+    },
+    {
+        "agencia": "SUB-AGENCIA VILLA GRAL. BELGRANO",
+        "id": 45
+    },
+    {
+        "agencia": "POLIC. VILLA GIARDINO",
+        "id": 46
+    },
+    {
+        "agencia": "SUB-AGENCIA COLONIA CAROYA",
+        "id": 47
+    }
+]
